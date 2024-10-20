@@ -39,7 +39,7 @@ The code file supports relative paths and must be in a folder along with:
 - cell165
 2. image files named:
 - Element.png
-- Bosch_logo.png
+- logo.png
 
 Helpful site: https://miroslawmamczur.pl/srodowisko-wirtualne-w-python/
 
